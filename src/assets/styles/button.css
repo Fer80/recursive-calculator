@@ -1,0 +1,15 @@
+.button {
+    color: white;
+    background: #4d4d4d;
+    font-family: Share Tech Mono, monospace;
+    font-size: 20px;
+    cursor: default;
+    border: none;
+    outline: 1px solid #000;
+}
+
+.button:hover {
+    outline: 1px solid gray;
+    color: #000;
+    z-index: 1;
+}
